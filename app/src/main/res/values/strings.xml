@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FiveThings</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="company_url">http://www.luxtech-eg.com</string>
+
+    <string name="page_title_1">about</string>
+    <string name="page_title_2"> benefits</string>
+    <string name="page_title_3">services</string>
+    <string name="page_title_4">contact</string>
+    <string name="page_title_5">portfolio</string>
+
+    <string name="main_text_1">Luxtech is specialized in applying Home Automation and Smart Home technologies. Luxtech offers design and installation services whether you are building your new home or upgrading existing one. The company aims to fulfill clients needs with varaity of services that matchs everybody\'s unique taste with high quality products and affordable prices. Amazingly your house is under your control and at your fingure tip , it\'s an app in your mobile. we simply make smart homes.</string>
+    <string name="main_text_2"></string>
+    <string name="main_text_3"></string>
+    <string name="main_text_4"></string>
+    <string name="main_text_5"></string>
+</resources>
